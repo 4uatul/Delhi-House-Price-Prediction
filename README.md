@@ -1,10 +1,10 @@
 Delhi House Price Prediction
 
-Introduction
+Introduction:
 
 This is a machine learning project aimed at predicting the house prices in Delhi, India based on various parameters such as location, number of rooms, area, etc. The project uses Python and the scikit-learn library to build and evaluate a linear regression model.
 
-Requirements
+Requirements:
 
 The project requires the following packages to be installed:
 
@@ -14,12 +14,11 @@ Matplotlib,
 Seaborn, 
 Scikit-learn, 
 
-Data
+Data:
 
 The data used in this project is obtained from a publicly available dataset on Kaggle. The dataset contains information on various properties in Delhi and their respective prices.
 
-CODE
-
+Code:
 
 The code for the project is written in Python and is organized as follows:
 
@@ -33,6 +32,6 @@ The code can be run in any IDE or Jupyter Notebook that supports Python.
 Clone the repository to your local machine : 
 https://github.com/4uatul/delhi-house-price-prediction.git
 
-Conclusion
+Conclusion:
 
 The linear regression model built in this project provides a good fit for the data and can be used to predict the house prices in Delhi based on the provided parameters. However, this project is just a starting point and further improvement can be made by using more complex models and incorporating more data.
