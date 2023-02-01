@@ -6,8 +6,7 @@ This is a machine learning project aimed at predicting the house prices in Delhi
 
 Requirements:
 
-The project requires the following packages to be installed:
-
+The project requires the following packages to be installed- 
 NumPy, 
 Pandas, 
 Matplotlib, 
@@ -20,7 +19,7 @@ The data used in this project is obtained from a publicly available dataset on K
 
 Code:
 
-The code for the project is written in Python and is organized as follows:
+The code for the project is written in Python and is organized as follows-
 
 Importing required libraries and reading the data into a Pandas DataFrame, 
 Exploring and cleaning the data, 
@@ -30,6 +29,7 @@ Building and evaluating a linear regression model,
 The code can be run in any IDE or Jupyter Notebook that supports Python.
 
 Clone the repository to your local machine : 
+
 https://github.com/4uatul/delhi-house-price-prediction.git
 
 Conclusion:
