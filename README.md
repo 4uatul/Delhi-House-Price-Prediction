@@ -16,7 +16,7 @@ Clone the repository to your local machine.
 
 shell
 Copy code
-$ git clone https://github.com/<username>/delhi-house-price-prediction.git
+$ git clone https://github.com/4uatul/delhi-house-price-prediction.git
 Install the required packages using pip.
 
 ruby
